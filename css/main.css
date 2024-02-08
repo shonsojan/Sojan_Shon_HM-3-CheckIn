@@ -27,3 +27,9 @@ h2{
     border-color: white;
     border-width: 4px;
   }
+
+footer{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
