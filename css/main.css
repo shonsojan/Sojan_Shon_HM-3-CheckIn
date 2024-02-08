@@ -1,0 +1,29 @@
+.hidden{
+    display: none;
+}
+
+body{
+    background-image: url('..//images/concert.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2{
+    color: white;
+}
+
+.box1 {
+    width: 150px;
+    background-color: #F0D191;
+    color: rgb(27, 27, 27);
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:10px;
+    margin-right: 50px;
+    display: inline-block;
+    border-style: solid;
+    border-color: white;
+    border-width: 4px;
+  }
